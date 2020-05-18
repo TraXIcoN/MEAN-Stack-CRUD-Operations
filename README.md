@@ -1,4 +1,4 @@
-# MEAN Stack CRUD Operations for Beginners
+# MEAN Stack CRUD Operations
 This is a MEAN Stack Demo Project Showing CRUD Operations Insert Update Delete and Read.
 
 ###### Before Running this Project
